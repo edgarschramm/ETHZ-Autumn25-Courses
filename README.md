@@ -13,6 +13,7 @@
 - Skript und Mitschrift
 ### Bonuspunkte
 - gibt es für Quiz am Anfang von Übungen
+- 0,25 Notenwert, je 0,05 für bis zu 5 Quizzes
 ## Physik 1
 ### [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=25659)
 - Zentrale Anlaufstelle
@@ -22,6 +23,7 @@
 - Eventuell TA spezifisch
 ### Bonuspunkte
 - gibt es für sinnvolle Bearbeitung der Serie
+- 0,25 Notenwert
 ## Informatik
 ### [Übersicht](https://lec.inf.ethz.ch/ifmp/2025/)
 - Zentrale Anlaufstelle für Informationen
