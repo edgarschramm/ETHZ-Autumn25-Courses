@@ -13,7 +13,7 @@
 - Script and notes
 ### Bonus points
 - Available for quizzes at the beginning of exercises
-- 0.25 grade value, 0.05 each for up to 5 quizzes
+- 0.125 grade value each semester, 0.025 each for up to 5 quizzes
 ## Physics 1
 ### [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=25659)
 - Central point of contact
