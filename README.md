@@ -34,3 +34,4 @@
 
 ## Orga
 Für Vorschläge und Änderung erstellt pull requests oder schreibt mir über [mail](mailto:eschramm@student.ethz.ch) oder whatsapp :)
+(alle Angaben ohne Gewähr obv)
