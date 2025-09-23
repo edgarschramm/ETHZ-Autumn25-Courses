@@ -14,7 +14,7 @@
 - Skript und Mitschrift
 ### Bonuspunkte
 - gibt es für Quiz am Anfang von Übungen
-- 0,25 Notenwert, je 0,05 für bis zu 5 Quizzes
+- 0,125 Notenwert pro Semester, je 0,025 für bis zu 5 Quizzes 
 ## Physik 1
 ### [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=25659)
 - Zentrale Anlaufstelle
