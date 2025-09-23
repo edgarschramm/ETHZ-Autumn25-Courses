@@ -22,8 +22,7 @@
 - Datein für Übung
 - Eventuell TA spezifisch
 ### Bonuspunkte
-- gibt es für sinnvolle Bearbeitung der Serie
-- 0,25 Notenwert
+- 0,25 Notenwert: 0,15 für min 50% Serien abgegeben und 0,1 für min 50% von Kontrollfragen Punkte
 ## Informatik
 ### [Übersicht](https://lec.inf.ethz.ch/ifmp/2025/)
 - Zentrale Anlaufstelle für Informationen
