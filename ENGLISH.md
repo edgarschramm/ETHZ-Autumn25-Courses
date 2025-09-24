@@ -1,4 +1,7 @@
 # English overview (auto translated)
+
+## !!There is now also a much cleaner [website](https://edgarschramm.github.io/ETHZ-Autumn25-Courses/)!!
+(Why are so many people cloning the repo?? I only put it on GitHub because it was the easiest way to host Markdown🫣)
 ## Analysis 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1261-07L/)
 - Central point of contact
@@ -38,4 +41,4 @@
 
 ## Organization
 - For suggestions and changes, create pull requests or write to me via [email](mailto:eschramm@student.ethz.ch) or WhatsApp :)
-- (All information provided without guarantee, of course)
+- (All information provided without guarantee obviously)
