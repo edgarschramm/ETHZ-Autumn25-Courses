@@ -2,18 +2,21 @@
 ## Analysis 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1261-07L/)
 - Central point of contact
-- Exercises and submissions
-- Script and notes
+- Exercises and submission
+- Script and transcript
+### [Polybox](https://polybox.ethz.ch/index.php/s/w8DAgLMwZEPyyEz)
+- TA notes on exercises
 ### ~~Bonus points~~
-- Not available
+- are up for debate
+- Figalli does not want to grant them
 ## Linear Algebra 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1151-00L/)
 - Central point of contact
-- Exercises and submissions
+- Exercises and submission
 - Script and notes
 ### Bonus points
 - Available for quizzes at the beginning of exercises
-- 0.125 grade value each semester, 0.025 each for up to 5 quizzes
+- 0.125 grade value per semester, 0.025 each for up to 5 quizzes 
 ## Physics 1
 ### [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=25659)
 - Central point of contact
