@@ -5,8 +5,11 @@
 - Zentrale Anlaufstelle
 - Übungen und Abgabe
 - Skript und Mitschrift
+### [Polybox](https://polybox.ethz.ch/index.php/s/w8DAgLMwZEPyyEz)
+- TA Notizen zu Übung
 ### ~~Bonuspunkte~~
-- gibt es nicht
+- stehen zur Debatte
+- Figalli will nicht gönnen
 ## Lineare Algebra 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1151-00L/)
 - Zentrale Anlaufstelle
