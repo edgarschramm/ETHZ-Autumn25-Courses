@@ -1,5 +1,7 @@
 # Übersicht
 ([English Version](ENGLISH.md))
+## !!Es gibt jetzt auch eine cleanere [Website](https://edgarschramm.github.io/ETHZ-Autumn25-Courses/)!!
+(warum clonen so viele das repo??, hatte eigentlich nur auf github gepackt weil einfachster weg markdown zu hosten🫣)
 ## Analysis 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1261-07L/)
 - Zentrale Anlaufstelle
