@@ -9,9 +9,12 @@
 - Script and transcript
 ### [Polybox](https://polybox.ethz.ch/index.php/s/w8DAgLMwZEPyyEz)
 - TA notes on exercises
-### ~~Bonus points~~
-- are up for debate
-- Figalli does not want to grant them
+### Bonus points
+- up to +0.25 through weekly tasks during the TA sessions.
+- Fridays, Oct 10 – Dec 12 (no bonus on Dec 19), during the first 10–15 minutes.
+- TAs give individual short tasks (multiple choice / true–false / short answer).
+- each correct submission = +0.05; max. +0.25 (maximum with 5 correct, about 10 attempts total).
+- the task in week n covers lecture material up to and including that week.
 ## Linear Algebra 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1151-00L/)
 - Central point of contact
