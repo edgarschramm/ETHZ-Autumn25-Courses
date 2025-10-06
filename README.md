@@ -9,7 +9,7 @@
 - Skript und Mitschrift
 ### [Polybox](https://polybox.ethz.ch/index.php/s/w8DAgLMwZEPyyEz)
 - TA Notizen zu Übung
-### ~~Bonuspunkte~~
+### Bonuspunkte
 - bis zu +0,25 durch wöchentliche Aufgaben in den TA-Stunden.
 - freitags 10.10.–12.12. (kein Bonus am 19.12.), in den ersten 10–15 Min.
 - TAs geben individuelle Kurzaufgaben (MC/True–False/Feldantwort).
