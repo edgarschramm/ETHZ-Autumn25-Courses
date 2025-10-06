@@ -10,8 +10,11 @@
 ### [Polybox](https://polybox.ethz.ch/index.php/s/w8DAgLMwZEPyyEz)
 - TA Notizen zu Übung
 ### ~~Bonuspunkte~~
-- stehen zur Debatte
-- Figalli will nicht gönnen
+- bis zu +0,25 durch wöchentliche Aufgaben in den TA-Stunden.
+- freitags 10.10.–12.12. (kein Bonus am 19.12.), in den ersten 10–15 Min.
+- TAs geben individuelle Kurzaufgaben (MC/True–False/Feldantwort).
+- jede richtige Abgabe = +0,05; max. +0,25 (Maximum mit 5 richtigen, ca. 10 Versuche).
+- Aufgabe in Woche n deckt Vorlesungsstoff bis einschließlich.
 ## Lineare Algebra 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1151-00L/)
 - Zentrale Anlaufstelle
