@@ -9,9 +9,11 @@
 - Skript und Mitschrift
 ### [Polybox](https://polybox.ethz.ch/index.php/s/w8DAgLMwZEPyyEz)
 - TA Notizen zu Übung
-### ~~Bonuspunkte~~
-- stehen zur Debatte
-- Figalli will nicht gönnen
+### Bonuspunkte
+- Quiz am Anfang von jeder Freitags Übung
+- 0,05 Pro korrekter Abgabe, bis zu 0,25 Notenwert
+- 10 Quizzes Insgesamt, keine Möglichkeit von zu Hause oder nachzuholen
+- Figalli gönnt doch [Forumpost](https://forum.math.ethz.ch/t/bonus-problems/3491)
 ## Lineare Algebra 1
 ### [Metaphor](https://metaphor.ethz.ch/x/2025/hs/401-1151-00L/)
 - Zentrale Anlaufstelle
